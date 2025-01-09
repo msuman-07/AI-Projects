@@ -1,0 +1,28 @@
+import cv2
+
+alg = "D:/AI MasterClass/haarcascade_frontalface_default.xml"
+
+haar_cascade = cv2.CascadeClassifier(alg)  # Loading the algorithm
+
+video_path = "D:/AI MasterClass/Face Video.mp4"  # Video is assigned here
+cam = cv2.VideoCapture(video_path)  # Given video is captured here
+
+while True:
+    ret, img = cam.read()  # Reading the frame from cam
+    if not ret:
+        break  # Break the loop if no frame is returned
+
+    grayImg = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)  # Convert the color image to grayscale
+    faces = haar_cascade.detectMultiScale(grayImg, scaleFactor=1.3, minNeighbors=4)  # Getting coordinates
+
+    for (x, y, w, h) in faces:
+        cv2.rectangle(img, (x, y), (x + w, y + h), (0, 0, 255), 2)  # Red color and thickness=2
+
+    cv2.imshow("FaceDetection", img)
+
+    key = cv2.waitKey(10)
+    if key == 27:  # Press ESC key (ASCII 27) to close
+        break
+
+cam.release()
+cv2.destroyAllWindows()
