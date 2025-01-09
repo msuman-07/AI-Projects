@@ -1,2 +1,2 @@
-# AI-Master-Class-Novi-Tech-
+# AI-Master-Class-Novi-Tech
 AI BootCamp
