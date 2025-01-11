@@ -1,0 +1,38 @@
+import cv2, os #os-To smoothly take all dataset img to code
+haar_file = "D:\AI MasterClass\haarcascade_frontalface_default.xml" #Haarcascade algorithm file upload
+datasets = "D:\AI MasterClass\Face DataSet" #Dataset should be identified
+sub_data = "Steve Jobs" #Subdataset inside the dataset
+
+path = os.path.join(datasets, sub_data) # datasets/Trump
+if not os.path.isdir(path): # if there is not sub file as trump then it will create a new file as trump
+    os.mkdir(path)
+    
+(width, height) =(130, 100)
+
+face_cascade = cv2.CascadeClassifier(haar_file) #algoirhtm stored in haar_file
+
+webcam = cv2.VideoCapture(0) #cam init
+
+count = 1
+while count <51:
+    print(count)
+    (_, im) = webcam.read()
+
+    gray=cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
+
+    faces= face_cascade.detectMultiScale(gray, 1.3,4)
+
+    for (x,y,w,h) in faces:
+        cv2.rectangle(im,(x,y),(x+w,y+h),(255,0,0),2)
+        face=gray[y:y + h,x:x + w]
+        face_resize = cv2.resize(face, (width,height))
+        cv2.imwrite('%s/%s.png' % (path,count), face_resize) #Count the img and resize it
+    count += 1
+
+    cv2.imshow('OpenCV', im)
+    key = cv2.waitKey(10)
+    if key == 27: #esc key to release
+        break
+    
+webcam.release()
+cv2.destroyWindows
