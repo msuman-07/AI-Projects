@@ -1,0 +1,36 @@
+import matplotlib.pyplot as plt
+import urllib.request #Handling URL
+from bs4 import BeautifulSoup #Handling or parsing html files
+
+import nltk #toolkit
+nltk.download ('stopwords') #or is was like these words r extracted
+
+from nltk.corpus import stopwords
+
+#get the info from website
+response = urllib.request.urlopen('https://en.wikipedia.org/wiki/TATA')
+html = response.read()
+print (html)
+
+soup = BeautifulSoup(html,'html5lib') #getting all as soup from lib
+text = soup.get_text(strip = True) # getting only txt from soup
+
+print("Text",text)
+
+tokens = [t for t in text.split()]
+
+print("tokens",tokens)
+
+sr= stopwords.words('english')
+clean_tokens = tokens[:]
+for token in tokens:
+    if token in stopwords.words('english'):
+        clean_tokens.remove(token)
+
+print (clean_tokens)
+
+freq = nltk.FreqDist(clean_tokens)
+for key, val in freq.items():
+    print(str(key)+':'+str(val))
+freq.plot(20)
+plt.show()
