@@ -1,2 +1,2 @@
-# AI-Master-Class-Novi-Tech
+# AI - projects
 AI BootCamp
