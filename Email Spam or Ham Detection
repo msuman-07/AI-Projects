@@ -1,0 +1,85 @@
+import pandas as pd
+
+messages = pd.read_csv("D:/AI MasterClass/Open CV/EmailCollection_500.txt", sep='\t', names=['LABEL', 'MESSAGES'], encoding='latin-1')
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+sns.countplot (x='LABEL', data=messages)
+plt.show()
+
+import nltk
+import re
+
+nltk.download ('punkt')
+nltk.download ('stopwords')
+nltk.download ('wordnet')
+
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+stemmer = PorterStemmer()
+lemmatizer = WordNetLemmatizer()
+
+# Drop NaN values from messages
+messages.dropna(inplace=True)
+
+corpus = []
+for i in range(0, len(messages)):
+    # Removes non-alphabetic characters
+    review = re.sub('[^a-zA-Z]', ' ', messages['MESSAGES'].iloc[i])
+    # Converts the text to lowercase
+    review = review.lower()
+    # Tokenizes the text into words
+    review = review.split()
+    # Applies stemming using PorterStemmer
+    review = [stemmer.stem(word) for word in review if word not in set(stopwords.words('english'))]
+    # Joins the processed words back into a string (review)
+    review = ' '.join(review)
+    corpus.append(review)
+
+print(corpus)  # Corpus should now be correctly filled
+
+# Creating the Bag of Words model
+from sklearn.feature_extraction.text import CountVectorizer
+cv = CountVectorizer(max_features=3500)
+X = cv.fit_transform(corpus).toarray()
+
+y = pd.get_dummies(messages['LABEL'])  
+print("xYxYxYxY", y)  
+y = y.iloc[:, 1].values  # Ensure correct binary encoding
+
+print("XXXX", X)
+print("YYYY", y)
+
+# Creating a pickle file for the CountVectorizer (commented out)
+# import pickle
+# pickle.dump(cv, open('cv-transform.pkl', 'wb'))
+
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=0)
+
+# MultinomialNB
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import accuracy_score  # Accuracy score is imported 
+
+mnb = MultinomialNB(alpha=0.8)
+mnb.fit(X_train, y_train)
+
+y_pred_mnb = mnb.predict(X_test)
+mnb_acc = accuracy_score(y_pred_mnb, y_test)
+print("MNB Accuracy", mnb_acc)
+
+message = 'Click the link to get 50% off on your next purchase'
+
+data = [message]
+vect = cv.transform(data).toarray()
+my_prediction = mnb.predict(vect)
+if my_prediction == 0:
+    print("It's a Ham Mail")  # Ham means legit
+else:
+    print("It's a Spam Mail")
+
+##Creating a pickle file for the Multinomial Naive Bayes model
+#filename = 'model.pkl'
+#pickle.dump (mnb, open (filename, 'wb'))
