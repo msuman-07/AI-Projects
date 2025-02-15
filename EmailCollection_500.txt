@@ -1,0 +1,501 @@
+LABEL	MESSAGES
+spam	You have been selected for a special discount. Buy now!
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Claim your lottery winnings now. Just send us your details.
+spam	Hey, are you coming to the party tonight?
+ham	Are we still on for the weekend trip?
+ham	Hey, are you coming to the party tonight?
+ham	Click the link to get 50% off on your next purchase.
+ham	Exclusive offer! Buy one get one free on all items.
+ham	Hey, are you coming to the party tonight?
+ham	Click the link to get 50% off on your next purchase.
+spam	Win a free vacation! Just sign up here.
+ham	You have been selected for a special discount. Buy now!
+spam	Hey, are you coming to the party tonight?
+spam	Click the link to get 50% off on your next purchase.
+spam	Click the link to get 50% off on your next purchase.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Can you send me the report by EOD?
+ham	I'm running late, will be there in 10 minutes.
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Win a free vacation! Just sign up here.
+spam	Click the link to get 50% off on your next purchase.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Let's meet for coffee tomorrow.
+spam	You have been selected for a special discount. Buy now!
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Earn $5000 per week from home! Sign up today.
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Win a free vacation! Just sign up here.
+ham	I'm running late, will be there in 10 minutes.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Click the link to get 50% off on your next purchase.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	I'm running late, will be there in 10 minutes.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Hey, are you coming to the party tonight?
+spam	Click the link to get 50% off on your next purchase.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Hey, are you coming to the party tonight?
+spam	Claim your lottery winnings now. Just send us your details.
+ham	I'm running late, will be there in 10 minutes.
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Click the link to get 50% off on your next purchase.
+spam	Win a free vacation! Just sign up here.
+spam	Your appointment is confirmed for Monday at 10 AM.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Hey, are you coming to the party tonight?
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Reminder: Your electricity bill is due tomorrow.
+spam	Earn $5000 per week from home! Sign up today.
+ham	Click the link to get 50% off on your next purchase.
+spam	Are we still on for the weekend trip?
+spam	Can you send me the report by EOD?
+ham	Win a free vacation! Just sign up here.
+spam	Are we still on for the weekend trip?
+ham	I'm running late, will be there in 10 minutes.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Your appointment is confirmed for Monday at 10 AM.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Let's meet for coffee tomorrow.
+ham	Let's meet for coffee tomorrow.
+spam	Can you send me the report by EOD?
+spam	Win a free vacation! Just sign up here.
+ham	Can you send me the report by EOD?
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	You have been selected for a special discount. Buy now!
+spam	You have been selected for a special discount. Buy now!
+ham	You have been selected for a special discount. Buy now!
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Let's meet for coffee tomorrow.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	You have been selected for a special discount. Buy now!
+ham	Hey, are you coming to the party tonight?
+ham	Win a free vacation! Just sign up here.
+ham	Can you send me the report by EOD?
+spam	You have been selected for a special discount. Buy now!
+spam	Are we still on for the weekend trip?
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Claim your lottery winnings now. Just send us your details.
+ham	Reminder: Your electricity bill is due tomorrow.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Win a free vacation! Just sign up here.
+spam	Click the link to get 50% off on your next purchase.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Hey, are you coming to the party tonight?
+ham	Can you send me the report by EOD?
+ham	Click the link to get 50% off on your next purchase.
+ham	Hey, are you coming to the party tonight?
+spam	Are we still on for the weekend trip?
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Are we still on for the weekend trip?
+ham	Claim your lottery winnings now. Just send us your details.
+spam	Click the link to get 50% off on your next purchase.
+ham	Earn $5000 per week from home! Sign up today.
+ham	You have been selected for a special discount. Buy now!
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Can you send me the report by EOD?
+spam	Let's meet for coffee tomorrow.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Earn $5000 per week from home! Sign up today.
+ham	Are we still on for the weekend trip?
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Claim your lottery winnings now. Just send us your details.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Are we still on for the weekend trip?
+spam	Let's meet for coffee tomorrow.
+ham	Win a free vacation! Just sign up here.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Can you send me the report by EOD?
+spam	I'm running late, will be there in 10 minutes.
+spam	Hey, are you coming to the party tonight?
+spam	Can you send me the report by EOD?
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Earn $5000 per week from home! Sign up today.
+spam	Earn $5000 per week from home! Sign up today.
+ham	Hey, are you coming to the party tonight?
+spam	You have been selected for a special discount. Buy now!
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Let's meet for coffee tomorrow.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	You have been selected for a special discount. Buy now!
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	You have been selected for a special discount. Buy now!
+spam	You have been selected for a special discount. Buy now!
+ham	Win a free vacation! Just sign up here.
+ham	I'm running late, will be there in 10 minutes.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Claim your lottery winnings now. Just send us your details.
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Are we still on for the weekend trip?
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Reminder: Your electricity bill is due tomorrow.
+spam	Your appointment is confirmed for Monday at 10 AM.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Claim your lottery winnings now. Just send us your details.
+ham	Click the link to get 50% off on your next purchase.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Earn $5000 per week from home! Sign up today.
+ham	Win a free vacation! Just sign up here.
+ham	Exclusive offer! Buy one get one free on all items.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Exclusive offer! Buy one get one free on all items.
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Hey, are you coming to the party tonight?
+spam	Earn $5000 per week from home! Sign up today.
+spam	Can you send me the report by EOD?
+ham	Hey, are you coming to the party tonight?
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	You have been selected for a special discount. Buy now!
+ham	Earn $5000 per week from home! Sign up today.
+spam	Are we still on for the weekend trip?
+spam	You have been selected for a special discount. Buy now!
+ham	Win a free vacation! Just sign up here.
+ham	Win a free vacation! Just sign up here.
+ham	Hey, are you coming to the party tonight?
+spam	Your appointment is confirmed for Monday at 10 AM.
+ham	I'm running late, will be there in 10 minutes.
+ham	I'm running late, will be there in 10 minutes.
+ham	You have been selected for a special discount. Buy now!
+ham	Can you send me the report by EOD?
+ham	Click the link to get 50% off on your next purchase.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Win a free vacation! Just sign up here.
+ham	Can you send me the report by EOD?
+ham	Your appointment is confirmed for Monday at 10 AM.
+spam	Are we still on for the weekend trip?
+ham	I'm running late, will be there in 10 minutes.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Earn $5000 per week from home! Sign up today.
+spam	I'm running late, will be there in 10 minutes.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Are we still on for the weekend trip?
+ham	Let's meet for coffee tomorrow.
+ham	Win a free vacation! Just sign up here.
+spam	I'm running late, will be there in 10 minutes.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Can you send me the report by EOD?
+ham	Click the link to get 50% off on your next purchase.
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	Hey, are you coming to the party tonight?
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Let's meet for coffee tomorrow.
+spam	You have been selected for a special discount. Buy now!
+ham	Can you send me the report by EOD?
+ham	I'm running late, will be there in 10 minutes.
+ham	You have been selected for a special discount. Buy now!
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	Earn $5000 per week from home! Sign up today.
+ham	Let's meet for coffee tomorrow.
+spam	Hey, are you coming to the party tonight?
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Your appointment is confirmed for Monday at 10 AM.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Let's meet for coffee tomorrow.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Are we still on for the weekend trip?
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, are you coming to the party tonight?
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Let's meet for coffee tomorrow.
+spam	Win a free vacation! Just sign up here.
+spam	Are we still on for the weekend trip?
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Are we still on for the weekend trip?
+ham	Hey, are you coming to the party tonight?
+spam	Are we still on for the weekend trip?
+ham	Reminder: Your electricity bill is due tomorrow.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Can you send me the report by EOD?
+ham	You have been selected for a special discount. Buy now!
+ham	Hey, are you coming to the party tonight?
+spam	I'm running late, will be there in 10 minutes.
+spam	Win a free vacation! Just sign up here.
+spam	I'm running late, will be there in 10 minutes.
+spam	Let's meet for coffee tomorrow.
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	Win a free vacation! Just sign up here.
+ham	I'm running late, will be there in 10 minutes.
+spam	Can you send me the report by EOD?
+spam	Hey, are you coming to the party tonight?
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	I'm running late, will be there in 10 minutes.
+ham	I'm running late, will be there in 10 minutes.
+ham	You have been selected for a special discount. Buy now!
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Can you send me the report by EOD?
+ham	Click the link to get 50% off on your next purchase.
+spam	Claim your lottery winnings now. Just send us your details.
+spam	I'm running late, will be there in 10 minutes.
+spam	I'm running late, will be there in 10 minutes.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Hey, are you coming to the party tonight?
+spam	Your appointment is confirmed for Monday at 10 AM.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Let's meet for coffee tomorrow.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	You have been selected for a special discount. Buy now!
+ham	Hey, are you coming to the party tonight?
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Earn $5000 per week from home! Sign up today.
+ham	Win a free vacation! Just sign up here.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Win a free vacation! Just sign up here.
+spam	I'm running late, will be there in 10 minutes.
+spam	You have been selected for a special discount. Buy now!
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Win a free vacation! Just sign up here.
+ham	Click the link to get 50% off on your next purchase.
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Win a free vacation! Just sign up here.
+ham	Let's meet for coffee tomorrow.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Let's meet for coffee tomorrow.
+spam	I'm running late, will be there in 10 minutes.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Are we still on for the weekend trip?
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Are we still on for the weekend trip?
+ham	Win a free vacation! Just sign up here.
+ham	Are we still on for the weekend trip?
+spam	Hey, are you coming to the party tonight?
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Earn $5000 per week from home! Sign up today.
+ham	Let's meet for coffee tomorrow.
+spam	Are we still on for the weekend trip?
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Earn $5000 per week from home! Sign up today.
+ham	I'm running late, will be there in 10 minutes.
+ham	Earn $5000 per week from home! Sign up today.
+ham	Exclusive offer! Buy one get one free on all items.
+ham	Earn $5000 per week from home! Sign up today.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Are we still on for the weekend trip?
+ham	Your appointment is confirmed for Monday at 10 AM.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Click the link to get 50% off on your next purchase.
+ham	I'm running late, will be there in 10 minutes.
+ham	Are we still on for the weekend trip?
+ham	Let's meet for coffee tomorrow.
+ham	Earn $5000 per week from home! Sign up today.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Your appointment is confirmed for Monday at 10 AM.
+spam	Earn $5000 per week from home! Sign up today.
+ham	Reminder: Your electricity bill is due tomorrow.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Let's meet for coffee tomorrow.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Click the link to get 50% off on your next purchase.
+ham	Can you send me the report by EOD?
+ham	Win a free vacation! Just sign up here.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, are you coming to the party tonight?
+spam	Click the link to get 50% off on your next purchase.
+ham	Earn $5000 per week from home! Sign up today.
+spam	Win a free vacation! Just sign up here.
+ham	Claim your lottery winnings now. Just send us your details.
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	Hey, are you coming to the party tonight?
+spam	You have been selected for a special discount. Buy now!
+ham	Exclusive offer! Buy one get one free on all items.
+ham	Click the link to get 50% off on your next purchase.
+ham	Earn $5000 per week from home! Sign up today.
+ham	I'm running late, will be there in 10 minutes.
+spam	Hey, are you coming to the party tonight?
+spam	Can you send me the report by EOD?
+ham	Hey, are you coming to the party tonight?
+spam	Let's meet for coffee tomorrow.
+ham	Win a free vacation! Just sign up here.
+ham	Can you send me the report by EOD?
+ham	You have been selected for a special discount. Buy now!
+ham	Let's meet for coffee tomorrow.
+spam	I'm running late, will be there in 10 minutes.
+ham	Hey, are you coming to the party tonight?
+spam	You have been selected for a special discount. Buy now!
+ham	I'm running late, will be there in 10 minutes.
+ham	Let's meet for coffee tomorrow.
+spam	Win a free vacation! Just sign up here.
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Win a free vacation! Just sign up here.
+ham	You have been selected for a special discount. Buy now!
+spam	Win a free vacation! Just sign up here.
+ham	Earn $5000 per week from home! Sign up today.
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Hey, are you coming to the party tonight?
+ham	Win a free vacation! Just sign up here.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Exclusive offer! Buy one get one free on all items.
+spam	Hey, are you coming to the party tonight?
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Click the link to get 50% off on your next purchase.
+spam	Click the link to get 50% off on your next purchase.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Claim your lottery winnings now. Just send us your details.
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	I'm running late, will be there in 10 minutes.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Your appointment is confirmed for Monday at 10 AM.
+ham	Are we still on for the weekend trip?
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Click the link to get 50% off on your next purchase.
+spam	Reminder: Your electricity bill is due tomorrow.
+spam	Let's meet for coffee tomorrow.
+ham	You have been selected for a special discount. Buy now!
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Click the link to get 50% off on your next purchase.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, are you coming to the party tonight?
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Exclusive offer! Buy one get one free on all items.
+ham	Let's meet for coffee tomorrow.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Hey, are you coming to the party tonight?
+ham	Let's meet for coffee tomorrow.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Are we still on for the weekend trip?
+spam	I'm running late, will be there in 10 minutes.
+ham	Claim your lottery winnings now. Just send us your details.
+spam	Reminder: Your electricity bill is due tomorrow.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Let's meet for coffee tomorrow.
+spam	Hey, are you coming to the party tonight?
+spam	Are we still on for the weekend trip?
+ham	Let's meet for coffee tomorrow.
+spam	Are we still on for the weekend trip?
+spam	Earn $5000 per week from home! Sign up today.
+ham	I'm running late, will be there in 10 minutes.
+spam	Win a free vacation! Just sign up here.
+ham	You have been selected for a special discount. Buy now!
+ham	Let's meet for coffee tomorrow.
+ham	Click the link to get 50% off on your next purchase.
+ham	Can you send me the report by EOD?
+ham	Click the link to get 50% off on your next purchase.
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	Let's meet for coffee tomorrow.
+spam	Let's meet for coffee tomorrow.
+spam	Click the link to get 50% off on your next purchase.
+ham	Win a free vacation! Just sign up here.
+ham	You have been selected for a special discount. Buy now!
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Claim your lottery winnings now. Just send us your details.
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Click the link to get 50% off on your next purchase.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Can you send me the report by EOD?
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Claim your lottery winnings now. Just send us your details.
+spam	Click the link to get 50% off on your next purchase.
+spam	Win a free vacation! Just sign up here.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Win a free vacation! Just sign up here.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	I'm running late, will be there in 10 minutes.
+spam	Earn $5000 per week from home! Sign up today.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Hey, are you coming to the party tonight?
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	Are we still on for the weekend trip?
+spam	Your appointment is confirmed for Monday at 10 AM.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Click the link to get 50% off on your next purchase.
+ham	You have been selected for a special discount. Buy now!
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Earn $5000 per week from home! Sign up today.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Exclusive offer! Buy one get one free on all items.
+spam	Claim your lottery winnings now. Just send us your details.
+ham	Hey, are you coming to the party tonight?
+spam	Let's meet for coffee tomorrow.
+ham	Win a free vacation! Just sign up here.
+ham	Win a free vacation! Just sign up here.
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Win a free vacation! Just sign up here.
+spam	Reminder: Your electricity bill is due tomorrow.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Reminder: Your electricity bill is due tomorrow.
+ham	Are we still on for the weekend trip?
+spam	Claim your lottery winnings now. Just send us your details.
+spam	Hey, don't forget about our meeting at 3 PM.
+spam	Your appointment is confirmed for Monday at 10 AM.
+ham	Are we still on for the weekend trip?
+spam	Let's meet for coffee tomorrow.
+spam	Click the link to get 50% off on your next purchase.
+ham	You have been selected for a special discount. Buy now!
+ham	Congratulations! You've won a free iPhone. Click here to claim your prize.
+spam	Let's meet for coffee tomorrow.
+ham	Let's meet for coffee tomorrow.
+spam	Win a free vacation! Just sign up here.
+ham	Hey, are you coming to the party tonight?
+spam	Win a free vacation! Just sign up here.
+ham	Hey, don't forget about our meeting at 3 PM.
+spam	You have been selected for a special discount. Buy now!
+spam	Exclusive offer! Buy one get one free on all items.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Hey, don't forget about our meeting at 3 PM.
+ham	Let's meet for coffee tomorrow.
+spam	Hey, don't forget about our meeting at 3 PM.
+ham	Hey, are you coming to the party tonight?
+spam	Can you send me the report by EOD?
+spam	Let's meet for coffee tomorrow.
+ham	I'm running late, will be there in 10 minutes.
+ham	Earn $5000 per week from home! Sign up today.
+ham	I'm running late, will be there in 10 minutes.
+spam	You have been selected for a special discount. Buy now!
+spam	Click the link to get 50% off on your next purchase.
+spam	Congratulations! You've won a free iPhone. Click here to claim your prize.
+ham	Your appointment is confirmed for Monday at 10 AM.
+ham	Reminder: Your electricity bill is due tomorrow.
+spam	Reminder: Your electricity bill is due tomorrow.
+ham	Hey, are you coming to the party tonight?
